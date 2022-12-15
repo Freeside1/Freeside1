@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Freeside1
+- 👋 Hi, I’m @Freeside1. I have 15 years of experience in C#, SQL and Reporting (Crystal and SSRS)
 - 👀 I’m interested in bots for twitch and IRC, as well as backend stuff and databases.
-- 🌱 I’m currently learning bitting for twitch
-- 💞️ I’m looking to collaborate on bitting for twitch
+- 🌱 I’m currently learning botting for twitch
+- 💞️ I’m looking to collaborate on botting for twitch
 - 📫 How to reach me: here or twitch (freeside1)
